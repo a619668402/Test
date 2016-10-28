@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PhoneInfo/PhoneInfo.iml" filepath="$PROJECT_DIR$/PhoneInfo/PhoneInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestGreenDao/TestGreenDao.iml" filepath="$PROJECT_DIR$/TestGreenDao/TestGreenDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestKeepLive/TestKeepLive.iml" filepath="$PROJECT_DIR$/TestKeepLive/TestKeepLive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestListViewButton/TestListViewButton.iml" filepath="$PROJECT_DIR$/TestListViewButton/TestListViewButton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestNetSpeed/TestNetSpeed.iml" filepath="$PROJECT_DIR$/TestNetSpeed/TestNetSpeed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestListViewButton/TestReflection.iml" filepath="$PROJECT_DIR$/TestListViewButton/TestReflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestSearchView/TestSearchView.iml" filepath="$PROJECT_DIR$/TestSearchView/TestSearchView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

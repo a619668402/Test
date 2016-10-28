@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/PhoneInfo" />
+            <option value="$PROJECT_DIR$/TestGreenDao" />
+            <option value="$PROJECT_DIR$/TestKeepLive" />
+            <option value="$PROJECT_DIR$/TestListViewButton" />
+            <option value="$PROJECT_DIR$/TestNetSpeed" />
+            <option value="$PROJECT_DIR$/TestSearchView" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/PhoneInfo" />
+            <option value="$PROJECT_DIR$/TestGreenDao" />
+            <option value="$PROJECT_DIR$/TestKeepLive" />
+            <option value="$PROJECT_DIR$/TestListViewButton" />
+            <option value="$PROJECT_DIR$/TestNetSpeed" />
+            <option value="$PROJECT_DIR$/TestSearchView" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
