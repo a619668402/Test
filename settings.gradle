@@ -1,1 +1,1 @@
-include ':app', ':TestKeepLive', ':TestNetSpeed', ':PhoneInfo', ':TestListViewButton', ':TestSearchView', ':TestGreenDao'
+include ':app', ':TestKeepLive', ':TestNetSpeed', ':PhoneInfo', ':TestListViewButton', ':TestSearchView', ':TestGreenDao', ':TestTreeView', ':TestThreeExpandListView'
